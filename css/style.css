@@ -4,7 +4,6 @@ header {
     background-color: #2A9D8F;
     margin: 0 auto;
     padding: 38px 130px
-
 }
 
 .head_logo {
@@ -25,7 +24,8 @@ header {
     font-size: 20px;
     font-family: 'Nerko One', cursive;
 }
-.head_list{
+
+.head_list {
     display: inline-block;
     color: #FFFFFF;
     font-weight: 400;
@@ -47,4 +47,41 @@ header {
     font-weight: 600;
     font-size: 20px;
     color: #2A9D8F;
+}
+
+/* article */
+
+article {
+    width: 780px;
+    margin: 200px auto;
+    /* background-color: #2A9D8F; */
+
+}
+
+.art_title {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: #4D4D4D;
+    padding: 0 218px;
+}
+
+.art_text {
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: #656565;
+}
+
+.art_text2{
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    color: #656565;
+}
+
+.art_div{
+    margin-top: 60px;
+    margin-bottom: 52px;
 }
