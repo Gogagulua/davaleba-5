@@ -1,0 +1,50 @@
+/* header */
+header {
+    width: 1440px;
+    background-color: #2A9D8F;
+    margin: 0 auto;
+    padding: 38px 130px
+
+}
+
+.head_logo {
+    vertical-align: middle;
+
+}
+
+.head_nav {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 357px;
+}
+
+.head_li {
+    display: inline-block;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+}
+.head_list{
+    display: inline-block;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.head_butt {
+    width: 147px;
+    background-color: #FFFFFF;
+
+}
+
+.butt_text {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #2A9D8F;
+}
