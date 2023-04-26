@@ -170,13 +170,61 @@ article {
 }
 
 
-.section_div_3{
+.section_div_3 {
     vertical-align: middle;
     display: inline-block;
 }
 
-.section_div_4{
+.section_div_4 {
     vertical-align: middle;
     display: inline-block;
     margin-left: 15px;
 }
+
+/* footer */
+
+footer {
+    width: 1440px;
+    background: #2A9D8F;
+    margin: 0 auto;
+    padding: 90px 130px 148px 130px;
+}
+.footer_logo{
+    margin-right: 634px;
+}
+
+.footer_title_1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 21px;
+}
+
+.footer_list_1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.footer_list_2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 8px 0;
+}
+
+.footer_div_1{
+    display: inline-block;
+}
+
+.footer_div_2{
+    display: inline-block;
+    margin: 0 35px;
+}
+
+/* .footer_div_3{
+    display: inline-block;
+} */
