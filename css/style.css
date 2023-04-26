@@ -88,7 +88,7 @@ article {
 
 /* section1 */
 
-section {
+.section_1 {
     width: 1440px;
     margin-top: 200px;
     margin: 0 auto;
@@ -138,4 +138,45 @@ section {
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
+}
+
+/* section2 */
+
+.section_2 {
+    width: 1180px;
+    margin: 200px auto;
+    /* background-color: #2A9D8F; */
+}
+
+.section_div_2 {
+    padding-left: 360px;
+    padding-right: 305px;
+    margin-bottom: 54px;
+}
+
+.section_title_2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 48px;
+    color: #4D4D4D;
+}
+
+.section_text_2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #535353;
+    margin-top: 32px;
+}
+
+
+.section_div_3{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.section_div_4{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 15px;
 }
